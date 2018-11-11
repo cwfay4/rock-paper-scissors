@@ -1,0 +1,71 @@
+#screen{
+  color: #fff;
+  display: block;
+  height: 400px;
+  margin: 0 auto;
+  width: 640px;
+}
+
+#continueGameBtn{
+  background: #0984e3;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  margin: 0 0 0 auto;
+  padding: 10px 20px;
+}
+
+#startGameBtn{
+  background: #0984e3;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  top: 80%;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+#stopGameBtn{
+  background: #0984e3;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  top: 5px;
+  margin: 0 5px 0 auto;
+  padding: 10px 20px;
+}
+
+#help{
+  margin: 0 auto;
+  text-align: center;
+  width: 640px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  text-align:center;
+}
+
+#helpBtn{
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.p-move, .moves-board{
+  height: 120px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.p-move-option{
+  display: inline-block;
+  height: auto;
+  margin: 0 10px;
+  padding: 0;
+}
